@@ -1,0 +1,5 @@
+MONGO_URI = uri = "mongodb+srv://rpp-cluster.05sqpna.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority"
+MONGO_CERT_PATH = "X509-cert-8013291609008704965.pem"
+DATABASE = "ricePingPong"
+USER_COLLECTION = "users"
+GAME_COLLECTION = "games"
